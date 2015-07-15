@@ -5,7 +5,7 @@ locale: en_US
 description: Jeffrey A. "jam" McGuire says stuff about things.
 logo: jamDrupaljam_head.png
 search: true
-url: //horncologne.github.io
+url: http://horncologne.github.io
 
 # Jekyll configuration
 
