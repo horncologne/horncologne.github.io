@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: HornCologne says
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: Jeffrey A. "jam" McGuire says stuff about things.
+logo: jamDrupaljam_head.png
 search: true
-url: http://localhost:4000
+url: //horncologne.github.io
 
 # Jekyll configuration
 
@@ -31,20 +31,28 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  name: Jeffrey A. "jam" McGuire
+  avatar: invisible_me.jpg
+  email: horncologne@gmail.com
+  disqus-shortname: horncologne
+  twitter: horncologne
+  facebook: horncologne
+  github: horncologne
+  #stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
+<<<<<<< HEAD
   instagram: #username
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
+=======
+  instagram: horncologne
+  flickr: horncologne
+  #tumblr: #username
+  #pinterest: #username
+  #weibo: #userid
+>>>>>>> gh-pages
   google:
     plus: #username
     analytics:
