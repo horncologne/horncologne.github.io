@@ -6,6 +6,7 @@ description: Jeffrey A. "jam" McGuire says stuff about things.
 logo: jamDrupaljam_head.png
 search: true
 url: //horncologne.github.io
+comments: true
 
 # Jekyll configuration
 
@@ -39,14 +40,14 @@ owner:
   facebook: horncologne
   github: horncologne
   #stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: horncologne
   instagram: horncologne
   flickr: horncologne
   #tumblr: #username
   #pinterest: #username
   #weibo: #userid
   google:
-    plus: #username
+    plus: horncologne
     analytics:
     verify:
     ad-client:
