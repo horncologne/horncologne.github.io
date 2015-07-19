@@ -1,5 +1,7 @@
 # Authors
 
+# Looks like this is only necessary for multiple authors (to override sitewide setting)
+
 #jam:
 #  name: Jeffrey A. "jam" McGuire
 #  web: http://horncologne.gothub.io
