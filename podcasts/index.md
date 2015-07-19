@@ -2,7 +2,7 @@
 layout: page
 title: Podcast Archive
 excerpt: "An archive of podcasts sorted by date."
-search_omit: false
+search_omit: true
 ---
 
 <ul class="post-list">
