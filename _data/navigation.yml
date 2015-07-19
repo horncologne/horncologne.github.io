@@ -12,11 +12,11 @@
 - title: Blog
   url: /blog/
 
-- title: Podcasts
-  url: /podcasts/
+#- title: Podcasts
+#  url: /podcasts/
 
-- title: Theme Setup
-  url: /theme-setup/
+#- title: Theme Setup
+#  url: /theme-setup/
 
 #- title: Search
 #  url: /search/
