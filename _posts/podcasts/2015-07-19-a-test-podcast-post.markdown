@@ -2,7 +2,7 @@
 layout: post
 title: A Test Podcast Post
 modified:
-categories: podcasts
+categories: podcasts, blog
 excerpt: "If this were a podcast, add tweetable text here"
 tags: []
 image:
