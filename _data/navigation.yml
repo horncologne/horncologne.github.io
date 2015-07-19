@@ -6,17 +6,20 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+#- title: Articles
+#  url: /articles/
 
 - title: Blog
   url: /blog/
 
 - title: Podcasts
   url: /podcasts/
+  
+- title: Recipes
+  url: /recipes/
 
-- title: Theme Setup
-  url: /theme-setup/
+#- title: Theme Setup
+#  url: /theme-setup/
 
 #- title: Search
 #  url: /search/
