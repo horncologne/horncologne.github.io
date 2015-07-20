@@ -24,3 +24,12 @@ Looking for a simple, responsive, theme for your Jekyll powered blog? Well look 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
+
+
+<form accept-charset="UTF-8" action="https://formkeep.com/f/795fa7ce487b" method="POST">
+  <input type="hidden" name="utf8" value="✓">
+  <button type="submit">Submit</button>
+  <input type="email" name="email" placeholder="Your Email">
+  <input type="text" name="name" placeholder="Your Name">
+  <input type="url" name="url" placeholder="Your Website">
+</form>
