@@ -14,7 +14,7 @@ link: http://joequery.me/code/the-self-hating-web-developer/
 
 ["The self-hating Web Developer"](http://joequery.me/code/the-self-hating-web-developer/) is a post by [JoeQuery](http://joequery.me) that throws harsh light on something that I have seen in many of my friends and colleagues in technology. I suffer from it myself at times: [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 
-> *Wikipedia: Impostor syndrome* is a psychological phenomenon in which
+> **Wikipedia: Impostor syndrome** is a psychological phenomenon in which
 > people are unable to internalize their accomplishments.
 > Despite external evidence of their competence, those
 > with the syndrome remain convinced that they are frauds
@@ -22,7 +22,7 @@ link: http://joequery.me/code/the-self-hating-web-developer/
 
 JoeQuery, despite being empirically a "good enough" developer to support his extended family doing web work in PHP, Python, Django, Drupal, and other technologies, has somehow bought into the notion that this isn't "real programming."
 
-> *JoeQuery*: The consensus on programming forums is that web developers
+> **JoeQuery:** The consensus on programming forums is that web developers
 > are the lowest tier of software developers. Web development
 > is easy, it's not real programming, it's just CRUD frameworks
 > and APIs doing all the real work for you.
