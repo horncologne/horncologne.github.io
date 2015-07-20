@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Pavlova: New Zealand's National Dessert
+title: Pavlova
 modified:
 categories: recipes
-excerpt:
+excerpt: New Zealand's National Dessert
 tags: [New Zealand, dessert]
 image:
   feature:
