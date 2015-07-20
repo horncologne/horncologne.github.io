@@ -3,7 +3,7 @@ layout: post
 title: Getting to Good Enough: Imposter Syndrome Is a Harsh Mistress
 modified:
 categories: blog
-excerpt:
+excerpt: "Perspective is hard. You've got this."
 tags: [PHP, Python, Django, Drupal, Imposter Syndrome]
 image:
   feature:
