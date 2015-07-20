@@ -9,6 +9,7 @@ image:
   feature:
 date: 2015-07-20T15:48:14+02:00
 published: true
+link: http://joequery.me/code/the-self-hating-web-developer/
 ---
 
 ["The self-hating Web Developer"](http://joequery.me/code/the-self-hating-web-developer/) is a post by [JoeQuery](http://joequery.me) that throws harsh light on something that I have seen in many of my friends and colleagues in technology. I suffer from it myself at times: [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
