@@ -3,7 +3,7 @@ layout: post
 title: Hello World, We're Drupal! Drupalists in PHP Land
 modified:
 categories: blog
-excerpt:
+excerpt: "In which two intrepid Drupalists show off Drupal 8 at a PHP conference."
 tags: [PHP, Drupal 8, startups, decoupled]
 image:
   feature:
