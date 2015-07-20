@@ -9,7 +9,6 @@ image:
   feature:
 date: 2015-07-20T15:50:26+02:00
 published: true
-comments: true
 ---
 
 The Pavlova holds a special place in my heart. It is one of the dishes I associate most strongly with New Zealand, where I grew up. It is also the sometime subject of fierce debate between Australia and New Zealand as to who invented it in the first place.
