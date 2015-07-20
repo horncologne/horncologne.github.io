@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Jeffrey A. \"jam\" McGuire
+title: About Jeffrey A. "jam" McGuire
 excerpt: "Tech storyteller, performer, cook."
 modified: 
 image:
