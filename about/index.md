@@ -25,11 +25,3 @@ Looking for a simple, responsive, theme for your Jekyll powered blog? Well look 
 
 [^1]: Example: *domain.com/category-name/post-title*
 
-
-<form accept-charset="UTF-8" action="https://formkeep.com/f/795fa7ce487b" method="POST">
-  <input type="email" name="email" placeholder="Your Email">
-  <input type="text" name="name" placeholder="Your Name">
-  <input type="url" name="url" placeholder="Your Website">
-  <input type="hidden" name="utf8" value="✓">
-  <button class="btn" type="submit">Submit</button>
-</form>
