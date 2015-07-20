@@ -9,14 +9,14 @@
 #- title: Articles
 #  url: /articles/
 
-- title: Blog
-  url: /blog/
+# - title: Blog
+#  url: /blog/
 
-- title: Podcasts
-  url: /podcasts/
+# - title: Podcasts
+#  url: /podcasts/
   
-- title: Recipes
-  url: /recipes/
+# - title: Recipes
+#  url: /recipes/
 
 #- title: Theme Setup
 #  url: /theme-setup/
