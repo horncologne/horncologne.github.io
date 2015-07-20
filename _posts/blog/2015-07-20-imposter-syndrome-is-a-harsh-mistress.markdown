@@ -12,6 +12,7 @@ published: true
 link: http://joequery.me/code/the-self-hating-web-developer/
 ---
 
+##The self-hating Web Developer
 ["The self-hating Web Developer"](http://joequery.me/code/the-self-hating-web-developer/) is a post by [JoeQuery](http://joequery.me) that throws harsh light on something that I have seen in many of my friends and colleagues in technology. I suffer from it myself at times: [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 
 > **Wikipedia: Impostor syndrome** is a psychological phenomenon in which
@@ -27,6 +28,7 @@ JoeQuery, despite being empirically a "good enough" developer to support his ext
 > is easy, it's not real programming, it's just CRUD frameworks
 > and APIs doing all the real work for you.
 
+##Well so what?
 Well so what? It is good enough to create billions in economic value and pay your rent. It shouldn't matter how imperfect it is from some theoretical standpoint. It does the job. It's good enough. PHP [runs 80% of the web](http://w3techs.com/technologies/details/pl-php/all/all).
 
 JoeQuery! You and your work are good! Good enough! The web is changing our world; you're part of that. Go back to learning out of love, not fear (that part of your post was really insightful). You've got this.
