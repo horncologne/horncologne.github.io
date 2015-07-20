@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting to Good Enough: Imposter Syndrome Is a Harsh Mistress
+title: Getting to Good Enough - Imposter Syndrome Is a Harsh Mistress
 modified:
 categories: blog
 excerpt: "Perspective is hard. You've got this."
