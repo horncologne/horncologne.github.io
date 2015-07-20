@@ -13,6 +13,8 @@ published: false
 
 [Campbell Vertesi](https://www.drupal.org/u/ohthehugemanatee), Technical Architect at [Forum One](http://forumone.com/), and I presented a Drupal 8 technical/business session at the 2015 Dutch PHP Conference in Amsterdam. We were warmly welcomed by the 500+ delegate-developers and learned a great deal from them about the broader world of our "parent" programming language. At the same time, we took the chance to inform our PHP colleagues about what's been going on in Drupal lately and why it could be relevant and helpful to them. Thanks again to the conference organizers [iBuildings](http://www.ibuildings.nl/), we had a great time at a great conference!
 
+Campbell wrote this post about our conference experience: [How the World Sees Drupal - the Dutch PHP Conference 2015](https://ohthehugemanatee.org/blog/2015/06/27/dutch-php-conference-2015/)
+
 ##We've learned a lot building D8, now we need to share it.
 
 Drupal 8 is a great example of what great cooperation between open source projects can look like. Thanks to PHP-FIG, the PSR standards, Composer and several years of hard work, we've refactored Drupal to [incorporate Symfony 2 components](http://symfony.com/projects/drupal), the [Twig template engine](http://twig.sensiolabs.org/), and a number of external libraries. We've outsourced basic, commodity functionality to others so that we can specialize in what we're good at: data ingestion and output, and managing it in between.
