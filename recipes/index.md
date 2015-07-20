@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recipes: Eat, drink, be merry!
+title: Recipes - Eat, drink, be merry!
 excerpt: "Eat, drink, be merry!"
 search_omit: true
 ---
