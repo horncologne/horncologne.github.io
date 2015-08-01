@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Explaining Decoupled Drupal for Better and for Worse.
+title: Explaining Decoupled Drupal for Better and for Worse
 modified:
 categories: blog
 excerpt: "Drupal 8 can function as the backend to lots of systems, but the more of Drupal you use, the better off you will be."

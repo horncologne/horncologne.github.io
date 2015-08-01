@@ -21,6 +21,8 @@ _"In which two intrepid Drupalists show off Drupal 8 at a PHP conference."_
 
 Campbell wrote a great post about our conference experience: [How the World Sees Drupal - the Dutch PHP Conference 2015](https://ohthehugemanatee.org/blog/2015/06/27/dutch-php-conference-2015/)
 
+Read about our session see our presentation slides: [Explaining Decoupled Drupal for Better and for Worse](http://horncologne.github.io/blog/explaining-decoupled-drupal-for-better-and-for-worse/)
+
 ##We've learned a lot building D8, now we need to share it.
 
 Drupal 8 is a great example of what great cooperation between open source projects can look like. Thanks to PHP-FIG, the PSR standards, Composer and several years of hard work, we've refactored Drupal to [incorporate Symfony 2 components](http://symfony.com/projects/drupal), the [Twig template engine](http://twig.sensiolabs.org/), and lots of other external libraries. We've outsourced basic, commodity functionality to others so that we can specialize in what we're good at--data ingestion and output, and managing it in between.
