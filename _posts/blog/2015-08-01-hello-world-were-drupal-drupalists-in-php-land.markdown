@@ -49,4 +49,4 @@ Campbell and I spent a lot of our time telling other PHP developers about the ex
 > oriented coding practices. Many were dismissive of even the
 > concept of an application framework like ours.
 
-We still have a lot we can learn from the broader PHP community. While we're out there, we need to make sure we're also telling everyone what we've got something useful (and that we're proud of) and how they can benefit from it, too.
+We still have a lot we can learn from the broader PHP community. While we're out there, we need to make sure we're also telling everyone we've got something great (and that we're proud of) and how they can use and benefit from it, too.
