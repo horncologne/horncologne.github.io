@@ -19,9 +19,13 @@ _"In which two intrepid Drupalists show off Drupal 8 at a PHP conference."_
 
 [Campbell Vertesi](https://www.drupal.org/u/ohthehugemanatee), Technical Architect at [Forum One](http://forumone.com/), and I presented a Drupal 8 technical/business session at the 2015 Dutch PHP Conference in Amsterdam. We were warmly welcomed by the 500+ delegate-developers and learned a great deal from them about the broader world of Drupal's "parent" programming language. At the same time, we took the chance to tell our PHP colleagues about what's been going on in Drupal lately and why it could be relevant and helpful to them. Thanks again to the conference organizers [iBuildings](http://www.ibuildings.nl/), we had a great time at a great conference! Thanks also to ForumOne and Acquia (my employers!) for supporting us at this conference.
 
-Campbell wrote a great post about our conference experience: [How the World Sees Drupal - the Dutch PHP Conference 2015](https://ohthehugemanatee.org/blog/2015/06/27/dutch-php-conference-2015/)
+**Campbell wrote a great post about our conference experience:**
 
-Read about our session see our presentation slides: [Explaining Decoupled Drupal for Better and for Worse](http://horncologne.github.io/blog/explaining-decoupled-drupal-for-better-and-for-worse/)
+- [How the World Sees Drupal - the Dutch PHP Conference 2015](https://ohthehugemanatee.org/blog/2015/06/27/dutch-php-conference-2015/)
+
+**Read about our session see our presentation slides:**
+
+- [Explaining Decoupled Drupal for Better and for Worse](http://horncologne.github.io/blog/explaining-decoupled-drupal-for-better-and-for-worse/)
 
 ##We've learned a lot building D8, now we need to share it.
 
