@@ -13,13 +13,29 @@ published: false
 
 [Campbell Vertesi](https://www.drupal.org/u/ohthehugemanatee), Technical Architect at [Forum One](http://forumone.com/), and I presented a Drupal 8 technical/business session at the 2015 Dutch PHP Conference in Amsterdam. We were warmly welcomed by the 500+ delegate-developers and learned a great deal from them about the broader world of our "parent" programming language. At the same time, we took the chance to inform our PHP colleagues about what's been going on in Drupal lately and why it could be relevant and helpful to them. Thanks again to the conference organizers [iBuildings](http://www.ibuildings.nl/), we had a great time at a great conference!
 
-Campbell wrote this post about our conference experience: [How the World Sees Drupal - the Dutch PHP Conference 2015](https://ohthehugemanatee.org/blog/2015/06/27/dutch-php-conference-2015/)
+Campbell wrote a great post about our conference experience: [How the World Sees Drupal - the Dutch PHP Conference 2015](https://ohthehugemanatee.org/blog/2015/06/27/dutch-php-conference-2015/)
 
 ##We've learned a lot building D8, now we need to share it.
 
 Drupal 8 is a great example of what great cooperation between open source projects can look like. Thanks to PHP-FIG, the PSR standards, Composer and several years of hard work, we've refactored Drupal to [incorporate Symfony 2 components](http://symfony.com/projects/drupal), the [Twig template engine](http://twig.sensiolabs.org/), and a number of external libraries. We've outsourced basic, commodity functionality to others so that we can specialize in what we're good at: data ingestion and output, and managing it in between.
 
-In Drupal land, we've been so busy and getting so excited about rebuilding Drupal, adopting up-to-date best practices and libraries, and building Drupal 8 to address the coming challenges of the post-browser world. But for all the ["Getting off the Island"](http://www.garfieldtech.com/blog/off-the-island-2013) we've done technically, apparently we haven't been spreading the word about it very well outside of Drupal. Campbell and I spent a lot of our time telling other PHP developers about the exciting changes in Drupal 8 and countering some surprising misinformation about our project. I spoke with quite a few people who had been so horrified looking at Drupal 4, 5, 6, or even 7 that they thought they could never take our platform seriously. We've gotta fix this!
+In Drupal land, we've been so busy and getting so excited about rebuilding Drupal, adopting up-to-date best practices and libraries, and building Drupal 8 to address the coming challenges of the post-browser world. But for all the ["Getting off the Island"](http://www.garfieldtech.com/blog/off-the-island-2013) we've done technically, apparently we haven't been spreading the word about it very well outside of Drupal.
+
+[As Campbell put it](https://ohthehugemanatee.org/blog/2015/06/27/dutch-php-conference-2015/):
+
+> I was surprised to learn about Drupal’s poor reputation among
+> the more hardcore PHP developers. Many of them had had a bad
+> experience with Drupal 5 or 6, and never looked back. Some had
+> tried Drupal 7, and were bewildered by the slew of Drupal-
+> specific concepts and structures they needed to learn for even
+> the simplest modifications. Many people I spoke with thought
+> of Drupal as a pile of procedural code, packed with confusing
+> work-arounds and anachronisms that made it not worth adopting.
+> Few had heard of Drupal 8’s move to contemporary, object-
+>oriented coding practices. Many were dismissive of even the
+> concept of an application framework like ours.
+
+Campbell and I spent a lot of our time telling other PHP developers about the exciting changes in Drupal 8 and countering some surprising misinformation about our project. I spoke with quite a few people who had been so horrified looking at Drupal 4, 5, 6, or even 7 that they thought they could never take our platform seriously. We've gotta fix this!
 
 We still have a lot we can learn from the broader PHP community. While we're out there, we need to make sure we're also telling everyone what we've got something useful (and that we're proud of) and how they can benefit from it, too.
 
