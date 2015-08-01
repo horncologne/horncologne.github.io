@@ -4,7 +4,7 @@ title: Hello World, We're Drupal! Drupalists in PHP Land
 modified:
 categories: blog
 excerpt: "In which two intrepid Drupalists show off Drupal 8 at a PHP conference."
-tags: [PHP, Drupal 8, startups, decoupled]
+tags: [PHP, Drupal 8, Dutch PHP Conference]
 image:
   feature: Josh-Holmes-jam-DutchPHP2015.jpg
   credit: Josh Holmes and Jeffrey A. "jam" McGuire at the 2015 Dutch PHP Conference, photo by jam.
