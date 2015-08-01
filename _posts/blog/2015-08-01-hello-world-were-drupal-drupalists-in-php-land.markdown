@@ -13,7 +13,7 @@ date: 2015-08-01T13:23:29+02:00
 
 Drupal friends! Drupal 8 is almost here! In the last 5+ years, we've [gotten off the island](http://www.garfieldtech.com/blog/off-the-island-2013), [built bridges](http://www.acquia.com/resources/podcasts/acquia-podcast-171-drupal-php-linking-islands-podcast-1), and [linked islands](http://www.acquia.com/resources/podcasts/acquia-podcast-172-drupal-php-linking-islands-podcast-2). We've made something powerful, accessible, and useful. We're justifiably proud of what we've built and what it's capable of. But ... somehow we're not getting the word out. Let's change that. Get out into your open source, tech, and business communities and show them what and who they could have on their side!
 
-##The 2015Dutch PHP Conference
+##The 2015 Dutch PHP Conference
 
 _"In which two intrepid Drupalists show off Drupal 8 at a PHP conference."_
 
