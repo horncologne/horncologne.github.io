@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the Beatles \[And the KLF\] Are Letting Down a Generation
+title: Why the Beatles [and the KLF] Are Letting Down a Generation
 modified:
 categories: linklist
 excerpt: "Martin Bryant shows me why I don't hum any Beatles tunes anymore."
