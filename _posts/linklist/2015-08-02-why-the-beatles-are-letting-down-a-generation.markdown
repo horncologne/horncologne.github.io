@@ -21,7 +21,7 @@ The Beatles were still on the radio when I was a kid. We had two or three of the
 > surviving members Paul and Ringo) should embrace its place
 > cultural history and make it available where people – especially
 > young people who are exploring pop history for the first time
-> – can easily access it. -- **Martin Bryant**
+> – can easily access it. -- **[Martin Bryant](http://thenextweb.com/opinion/2015/08/01/why-the-beatles-are-letting-down-a-generation/)**
 
 The KLF isn't there either, but the apparently tortured geniuses behind the KLF removed their catalog from sale altogether in 1992; a move not unknown in the history of Western art and music. I am just glad I have a couple of their CDs that I picked up when they blew my mind just in time for me to still find them in stores.
 
