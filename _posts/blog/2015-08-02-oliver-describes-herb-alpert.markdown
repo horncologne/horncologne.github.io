@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Oliver Explains: Herb Alpert
+title: Oliver Explains\: Herb Alpert
 modified:
 categories: blog
-excerpt: "Do you understand my kids?"
+excerpt: "Another I-don't-understand-my-kids moment."
 tags: [Herb Alpert, Tijuana brass, music, oliverexplains]
 image:
   feature: herbalpertthetijuanabrass-greatesthits.jpg
