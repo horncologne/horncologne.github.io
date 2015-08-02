@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oliver Explains\: Herb Alpert
+title: Oliver Explains Herb Alpert
 modified:
 categories: blog
 excerpt: "Another I-don't-understand-my-kids moment."
