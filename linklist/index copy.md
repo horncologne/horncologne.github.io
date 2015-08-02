@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Link List
 excerpt: "jam links to other stuff and has something brief to say about it."
 search_omit: true
 ---
