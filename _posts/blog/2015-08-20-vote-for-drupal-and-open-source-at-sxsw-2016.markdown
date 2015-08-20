@@ -4,7 +4,7 @@ title: Vote for Drupal and Open Source at SXSW 2016
 modified:
 categories: blog
 excerpt: Community voting for sessions open till 2015.Sep.04!
-tags: [Drupal, SXSW, vote, 2016]
+tags: [Drupal, open source, OSS, SXSW, vote, 2016]
 image: 
   feature: Drupal_Laptop.jpg
   credit: Medialab Prado License - https://creativecommons.org/licenses/by-sa/2.0/
