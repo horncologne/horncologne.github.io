@@ -83,4 +83,6 @@ I really encourage you to remember the incredibly privileged position that we’
 
 ##Presentation Slides
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9jyL276cK4TcPK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/horncologne/idealism-as-code-what-successful-open-source-looks-like" title="Idealism as code - What successful open source looks like" target="_blank">Idealism as code - What successful open source looks like</a> </strong> from <strong><a href="//www.slideshare.net/horncologne" target="_blank">Jeffrey McGuire</a></strong> </div>
+
 Originally published on [Acquia.com](https://www.acquia.com/resources/podcasts/idealism-and-what-successful-open-source-looks)
