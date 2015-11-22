@@ -3,7 +3,7 @@ layout: post
 title: Back from the 2015 Open IT Conference, Berlin
 modified:
 categories: blog
-excerpt: In open source, we don't have to ask permission to make a difference.
+excerpt: Open Source: Don't ask permission, just make a difference.
 tags: [open source, 2OITG, transparency, politics, change]
 image: 
   feature: 2OITG_2015.jpg
