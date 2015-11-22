@@ -3,12 +3,13 @@ layout: post
 title: Back from the 2015 Open IT Conference, Berlin
 modified:
 categories: blog
-excerpt: Open source: Don't ask permission, just make a difference.
+excerpt: Open source - Don't ask permission, just make a difference.
 tags: [open source, 2OITG, transparency, politics, change]
 image: 
   feature: 2OITG_2015.jpg
-date: 2015-11-21T16:16:16+01:00
+date: 2015-11-22T11:37:08+01:00
 ---
+
 ***Open Source: Don't ask permission, just make a difference.***
 
 The German opposition Green Party's Economic Spokesperson and Member of Parliament, [Dieter Janacek](http://www.dieterjanecek.de/) invited me to be a panelist at the 2nd Open IT Summit (_Offene IT-Gipfel_) at the [Berlin House of Representatives](https://en.wikipedia.org/wiki/Abgeordnetenhaus_of_Berlin). It was held on November 18th, 2015, one day before--and as a contrast to--the German government's National IT Summit and its goal was "[to bring openness to the core of the political debate about the digitalisation of society and the economy.](http://www.gruene-fraktion-berlin.de/offener-it-gipfel)" For me, the day was full of learning, expanding my horizons, and meeting new people. Highlights included finally get to meet several representatives from the German [Open Source Business Alliance](http://osb-alliance.de/), with whom I have many open conversations to finish :-) and [Markus Feilner](https://www.linkedin.com/in/markusfeilner) from SUSE.
@@ -38,4 +39,3 @@ The power of open source "do-ocracies" came up during the day. The freedom that 
 Open source practitioners, on the other hand, can often make a difference in a relatively short time (Drupal 8's 5-year development cycle being something of an exception). During the "Open Office" workshop held by LibreOffice and Document Foundation members, I realized that we can even make a difference to those organisations--governments being a prime example--that may not be able to make effective, quick changes themselves.
 
 We can make a difference because we are free to share what we do, improve the tools at everyone's disposal, offer lower barriers to entry for better tools ... plus guarantee transparency and auditability, all while reacting faster to security problems, continuously innovating and much more without having to wait or ask for permission.
-
