@@ -8,6 +8,7 @@ tags: [open source, 2OITG, transparency, politics, change]
 image: 
   feature: 2OITG_2015.jpg
 date: 2015-11-22T11:37:08+01:00
+share: true
 ---
 
 The German opposition Green Party's Economic Spokesperson and Member of Parliament, [Dieter Janacek](http://www.dieterjanecek.de/) invited me to be a panelist at the 2nd Open IT Summit (_Offene IT-Gipfel_) at the [Berlin House of Representatives](https://en.wikipedia.org/wiki/Abgeordnetenhaus_of_Berlin). It was held on November 18th, 2015, one day before--and as a contrast to--the German government's National IT Summit and its goal was "[to bring openness to the core of the political debate about the digitalisation of society and the economy.](http://www.gruene-fraktion-berlin.de/offener-it-gipfel)" For me, the day was full of learning, expanding my horizons, and meeting new people. Highlights included finally getting to meet several representatives from the German [Open Source Business Alliance](http://osb-alliance.de/), with whom I have many open conversations to finish :-) and [Markus Feilner](https://www.linkedin.com/in/markusfeilner) from SUSE.
