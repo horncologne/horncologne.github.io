@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Source Beyond Code, #HROS with Ambrosia Vertesi, part 1 of 2
+title: Open Source Beyond Code-#HROS with Ambrosia Vertesi-part 1 of 2
 modified:
 categories: blog
 excerpt: Part of my exploration of how open source thinking and practices are spreading beyond the world of code to influence and improve the businesses and cultures around them.
