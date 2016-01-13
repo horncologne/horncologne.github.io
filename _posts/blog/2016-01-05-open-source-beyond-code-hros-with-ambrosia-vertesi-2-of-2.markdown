@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What the geeks got right. - #HROS - Ambrosia Vertesi part 2 of 2
+title: What the geeks got right. - HROS - Ambrosia Vertesi part 2 of 2
 modified:
 categories: blog
 excerpt: "The How isn't competitive intelligence. That should be baseline."
